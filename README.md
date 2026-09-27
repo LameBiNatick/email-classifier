@@ -39,7 +39,7 @@ Make sure you have Python installed. This project uses Python 3.8 or higher.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/JCAR4/Email-classifier.git](https://github.com/JCAR4/Email-classifier.git)
+   https://github.com/LameBiNatick/email-classifier/
     cd Email-classifier
     ```
 
@@ -78,9 +78,7 @@ The model's performance was evaluated based on the following metrics:
 
 ---
 
-### License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
 
